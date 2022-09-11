@@ -1,0 +1,1 @@
+escribirSolucion(s.sol);

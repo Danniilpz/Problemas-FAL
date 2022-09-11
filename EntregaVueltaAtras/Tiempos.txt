@@ -1,0 +1,4 @@
+Con estimación y con solución inicial: 20'
+Sin estimacion y con solución inicial: 3'15"
+Con estimación y sin solución inicial: 1'30"
+Sin estimación y sin solución inicial: 3'50"

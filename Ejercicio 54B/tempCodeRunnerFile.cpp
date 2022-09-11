@@ -1,0 +1,1 @@
+resolver(n, k+1, s, datosLuces, costeMax);
